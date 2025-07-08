@@ -95,3 +95,12 @@ Ensure the following Python libraries are installed:
 
 ```bash
 pip install torch numpy scipy matplotlib notebook
+
+
+
+👨‍💻 About Me
+I'm Vikram Saharan, a data science enthusiast passionate about building intelligent systems that combine deep learning, NLP, and real-world usability.
+
+📫 Email: vikram@ma.iitr.ac.in
+🔗 LinkedIn: linkedin.com/in/vikram-saharan-638245329
+📄 Resume: Available on request just mail me 
