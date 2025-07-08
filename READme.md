@@ -6,20 +6,33 @@ This repository presents a collection of experiments and implementations using *
 
 ## 📁 Project Structure
 
+.
 ├── Articles/
-│ ├── Research papers and reference materials
+│   ├── PINN.pdf
+│   ├── seminar.pdf
+│   ├── solving non-linear and high dimensional PDE via Deep learning.pdf
+│   ├── solving pde with nn.pdf
+│   ├── Structure-of-a-fully-connected-neural-network-with-2-hidden-layers.png
+│   └── Three Ways to Solve Partial Differential Equations with Neural.pdf
 │
 ├── PINN_solver_couple_burger_equation/
-│ └── PINN_solver_for_coupled_Burger_equation.ipynb
+│   └── PINN_solver_for_coupled_Burger_equation.ipynb
 │
 ├── PINN_solver_for_1D_Burger_eqn/
-│ └── PINN_Solver_Burger_eq.ipynb
+│   └── PINN_Solver_Burger_eq.ipynb
 │
 ├── results/
-│ ├── A Numerical Algorithm Based on PINN for
-| |    Simulating the Burger’s Equation.pdf
-│ ├── PINN_Solver_Burger_eq_example_{1-11}.ipynb
-│ └── PINN_Solver_Burger_eq.ipynb
+│   ├── A Numerical Algorithm Based on PINN for Simulating the Burger’s Equation.pdf
+│   ├── PINN_Solver_Burger_eq_example_1.ipynb
+│   ├── PINN_Solver_Burger_eq_example_2.ipynb
+│   ├── PINN_Solver_Burger_eq_example_3.ipynb
+│   ├── PINN_Solver_Burger_eq_example_4.ipynb
+│   ├── PINN_Solver_Burger_eq_example_5.ipynb
+│   ├── PINN_Solver_Burger_eq_example_6.ipynb
+│   ├── PINN_Solver_Burger_eq_example_7.ipynb
+│   ├── PINN_Solver_Burger_eq_example_8.ipynb
+│   ├── PINN_Solver_Burger_eq_example_11.ipynb
+│   └── PINN_Solver_Burger_eq.ipynb
 
 
 
