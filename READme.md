@@ -12,7 +12,7 @@ This repository presents a collection of experiments and implementations using *
 │   ├── seminar.pdf
 │   ├── solving non-linear and high dimensional PDE via Deep learning.pdf
 │   ├── solving pde with nn.pdf
-│   ├── Structure-of-a-fully-connected-neural-network-with-2-hidden-layers.png
+│   ├──Structure-of-a-fully-connected-neural-network-with-2-hidden-layers.png
 │   └── Three Ways to Solve Partial Differential Equations with Neural.pdf
 │
 ├── PINN_solver_couple_burger_equation/
@@ -22,7 +22,7 @@ This repository presents a collection of experiments and implementations using *
 │   └── PINN_Solver_Burger_eq.ipynb
 │
 ├── results/
-│   ├── A Numerical Algorithm Based on PINN for Simulating the Burger’s Equation.pdf
+│   ├── A Numerical Algorithm Based on PINN for Simulating the Equation.pdf
 │   ├── PINN_Solver_Burger_eq_example_1.ipynb
 │   ├── PINN_Solver_Burger_eq_example_2.ipynb
 │   ├── PINN_Solver_Burger_eq_example_3.ipynb
